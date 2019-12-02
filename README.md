@@ -20,7 +20,9 @@ from DDPG-RL
 env = gym.make('Pendulum-v0')
 
 ddpg = DDPG(
+
                 - env : gym environment with continous action space
+                
                 - actor(None) : Tensorflow/keras model
 
                 - critic (None): tensorflow/keras model
