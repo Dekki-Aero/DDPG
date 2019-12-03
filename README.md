@@ -15,7 +15,7 @@ python code:
 
 import gym
 
-from DDPG-RL
+from DDPG-RL import DDPG
 
 env = gym.make('Pendulum-v0')
 
