@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='DDPG-TF',
       packages = ['ddpg'],
-      version = '2.0',
+      version = '2.0.3',
       author='Dekki',
       author_email = 'dekkiaero@gmail.com',
       url = 'https://github.com/Dekki-Aero/DDPG',
