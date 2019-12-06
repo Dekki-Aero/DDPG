@@ -41,5 +41,10 @@ ddpg = DDPG(
 ddpg.train() 
 ```
 
+------------
+
 
 ## Results :[![Reward plot of Pendulum problem](https://github.com/Dekki-Aero/DDPG/blob/master/DDPG-Pendulum_Performance.png "Reward plot of Pendulum problem")](http://https://github.com/Dekki-Aero/DDPG/blob/master/DDPG-Pendulum_Performance.png "Reward plot of Pendulum problem")
+
+
+[![Reward plot of CountinousMountain car](https://github.com/Dekki-Aero/DDPG/blob/master/mountain_car_continous.png "Reward plot of CountinousMountain car")](http://https://github.com/Dekki-Aero/DDPG/blob/master/mountain_car_continous.png "Reward plot of CountinousMountain car")
