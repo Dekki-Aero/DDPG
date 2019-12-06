@@ -48,7 +48,10 @@ ddpg.train()
 
 - On pendulum problem explored for 5 episodes
 
+
 [![Reward plot of Pendulum problem](https://github.com/Dekki-Aero/DDPG/blob/master/DDPG-Pendulum_Performance.png "Reward plot of Pendulum problem")](http://https://github.com/Dekki-Aero/DDPG/blob/master/DDPG-Pendulum_Performance.png "Reward plot of Pendulum problem")
 
-- On pendulum problem explored for 100 episodes
+- On Continous mountain car problem explored for 100 episodes
+
+
 [![Reward plot of CountinousMountain car](https://github.com/Dekki-Aero/DDPG/blob/master/mountain_car_continous.png "Reward plot of CountinousMountain car")](http://https://github.com/Dekki-Aero/DDPG/blob/master/mountain_car_continous.png "Reward plot of CountinousMountain car")
