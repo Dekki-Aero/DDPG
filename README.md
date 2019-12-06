@@ -20,8 +20,7 @@ from ddpg import DDPG
 
 env = gym.make('Pendulum-v0')
 
-ddpg = DDPG(
-                 env , # Gym environment with continous action space
+ddpg = DDPG(     env , # Gym environment with continous action space
                  actor(None), # Tensorflow/keras model
                  critic (None), # Tensorflow/keras model
                  buffer (None), # pre-recorded buffer
@@ -37,7 +36,9 @@ ddpg = DDPG(
                  dtype = 'float32',
                  n_episodes = 1000 ,# no of episodes to run
                  reward_plot = True ,# (bool)  to plot reward progress per episode
-                 model_save = 1) # epochs to save models and buffer
+                 model_save = 1, # epochs to save models and buffer
+                 plot = False, # Plot rewards for every episode
+                 model_save_freq = 10) #no.of episodes to save state of model
 
 ddpg.train() 
 ```
