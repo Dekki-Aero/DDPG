@@ -7,7 +7,7 @@ DDPG
 
 Install :
 ------------------
-- pip install DDPG-RL
+- pip install /DDPG
 
 
 python code:
