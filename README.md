@@ -13,7 +13,8 @@ Install :
 python code:
 ------------------
 
-''' import gym
+'''javascript
+mport gym
 
 from DDPG-RL import DDPG
 
@@ -45,6 +46,7 @@ ddpg = DDPG(
                 - reward_plot (True) : to plot reward progress per episode
                 - model_save (1) : epochs to save models and buffer))
 
-ddpg.train() '''
+ddpg.train() 
+'''
 
 ## Results :[![Reward plot of Pendulum problem](https://github.com/Dekki-Aero/DDPG/blob/master/DDPG-Pendulum_Performance.png "Reward plot of Pendulum problem")](http://https://github.com/Dekki-Aero/DDPG/blob/master/DDPG-Pendulum_Performance.png "Reward plot of Pendulum problem")
