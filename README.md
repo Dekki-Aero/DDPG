@@ -6,6 +6,11 @@ DDPG
 - [DDPG - algorthim](http://arxiv.org/abs/1509.02971 "DDPG - algorthim")
 - [Python package](http://pypi.org/project/DDPG-TF/2.0/ "Python package")
 
+
+[![Build Status](https://travis-ci.org/idealo/image-super-resolution.svg?branch=master)](https://travis-ci.org/idealo/image-super-resolution)
+[![Docs](https://img.shields.io/badge/docs-online-brightgreen)](https://idealo.github.io/image-super-resolution/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://github.com/idealo/image-super-resolution/blob/master/LICENSE)
+
 Install :
 ------------------
 - pip install DDPG-TF
