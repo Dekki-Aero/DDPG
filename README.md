@@ -4,7 +4,7 @@ DDPG
 - Implimenting DDPG Algorithm in Tensorflow-2.0
 - Tested on Open-AI Pendulum-v0 and Continous mountain car gym environments.
 - [DDPG - algorthim](http://arxiv.org/abs/1509.02971 "DDPG - algorthim")
-- [Python package](http://pypi.org/project/DDPG-TF/2.0/ "Python package")
+- [Python package](https://pypi.org/project/DDPG-TF/"Python package")
 
 
 
