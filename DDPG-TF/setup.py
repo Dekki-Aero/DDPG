@@ -10,4 +10,4 @@ setup(name='DDPG-TF',
       long_description=open('README.txt').read(),
       long_description_content_type="text/markdown",
       keywords = ['Deep Determnistic policy gradient','Actor Critic','Reinforcement Learning','DDPG'],
-      install_requires=['tensorflow==2.0','gym','numpy','matplotlib'])
+      install_requires=['tensorflow==2.7.2','gym','numpy','matplotlib'])
